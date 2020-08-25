@@ -1,5 +1,5 @@
 # 
-### This is the Matlab source code to reproduce our IEEE Wireless Communications Letters paper, titled "Lightwave Power Transfer for Federated Learning-based Wireless Networks".
+### This is the Matlab source code to reproduce our IEEE Communications Letters paper, titled "Lightwave Power Transfer for Federated Learning-based Wireless Networks".
 
 ### The full-text of the paper can be found here: https://arxiv.org/abs/2005.03977
 
